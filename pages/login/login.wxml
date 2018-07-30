@@ -1,5 +1,30 @@
-<view>
+<!--QQ-->
+<view class="weui-cell weui-cell_input  weui-cells_after-title">
+  <view class="weui-cell__hd">
+      <view class="weui-label"> Q Q</view>
+  </view>
   <view class="weui-cell__bd">
-      <input class="weui-input" placeholder="请输入qq"/>
+      <input class="weui-input" />
   </view>
 </view>
+<!--手机号-->
+<view class="weui-cell weui-cell_input  weui-cells_after-title">
+<view class="weui-cell__hd">
+  <view class="weui-label"> 手机号</view>
+</view>
+<view class="weui-cell__bd">
+    <input class="weui-input" />
+</view>
+
+</view>
+
+<!---->
+<view class="weui-cell weui-cell_input  weui-cells_after-title">
+  <view class="weui-cell__hd">
+      <view class="weui-label"> 微信号</view>
+  </view>
+  <view class="weui-cell__bd">
+      <input class="weui-input" />
+  </view>
+</view>
+

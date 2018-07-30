@@ -2,7 +2,9 @@
   "pages": [
     "pages/index/index",
     "pages/logs/logs",
-    "pages/login/login"
+    "pages/login/login",
+    "pages/cart/cart",
+    "pages/center/center"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -20,14 +22,14 @@
         "selectedIconPath": "/images/home-selected.png"
       },
       {
-        "pagePath": "pages/index/index",
-        "text": "设置",
+        "pagePath": "pages/cart/cart",
+        "text": "购物车",
         "iconPath": "/images/cart.png",
         "selectedIconPath": "/images/cart-selected.png"
       },
       {
-        "pagePath": "pages/login/login",
-        "text": "帮助",
+        "pagePath": "pages/center/center",
+        "text": "个人中心",
         "iconPath": "/images/my.png",
         "selectedIconPath": "/images/my-selected.png"
       }
