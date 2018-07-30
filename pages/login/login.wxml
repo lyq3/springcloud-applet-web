@@ -1,0 +1,5 @@
+<view>
+  <view class="weui-cell__bd">
+      <input class="weui-input" placeholder="请输入qq"/>
+  </view>
+</view>
